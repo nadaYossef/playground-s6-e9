@@ -1,0 +1,9 @@
+# competition data and outputs are not part of the repo
+*.csv
+*.parquet
+*.npy
+preds/
+ext/
+catboost_info/
+__pycache__/
+*.log
